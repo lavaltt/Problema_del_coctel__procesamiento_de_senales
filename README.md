@@ -1,8 +1,4 @@
 # Análisis y procesamiento de señales de audio: Problema del cóctel
-## Descripción
-Este proyecto contiene un código Python para el análisis y procesamiento de señales de audio. El código está diseñado para cargar audios y ruidos, graficar sus formas de onda y espectrogramas, calcular la relación señal-ruido (SNR) y 
-realizar un análisis de componentes independientes (ICA), para cumplir con los objetivos del mismo.
-
 ## Contextualización
 El problema del cóctel, también conocido como el "cocktail party problem" [^1^], se relaciona con la capacidad de separar y entender múltiples fuentes de sonido que se superponen en una grabación.
 La situación se presenta  en una fiesta con muchas personas hablando al mismo tiempo; el desafío es identificar y comprender la voz de una persona específica a pesar del ruido y las voces de fondo.
