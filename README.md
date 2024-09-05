@@ -10,7 +10,7 @@ También se realizó un análisis espectral y temporal, utilizando herramientas 
 
 Del mismo modo, se calculó la relación señal-ruido (SNR) para evaluar la calidad de las grabaciones y la efectividad de las técnicas de procesamiento aplicadas, lo que ayuda a cuantificar la mejora en la separación de las señales y la reducción del ruido.
 
-### Recopilación de las señales
+## Recopilación de las señales
 Es fundamental tener en cuenta el método de grabación para las señales de audio que serán utilizadas en el proyecto. En primer lugar, se debe verificar que los tres sensores (micrófonos), estén grabando a la misma frecuencia. En este caso particular, se grabó con tres celulares marca samsung, ya que estos permiten elegir la calidad de grabación; se eligió 44.1kHz ya que brinda una calidad estándar y un equilibrio ideal entre tamaño de archivo y compatibilidad. 
 
 ![Configuración samsung](https://github.com/lavaltt/Problema_del_coctel__procesamiento_de_senales/blob/main/samsung.jpg?raw=true)
@@ -26,7 +26,7 @@ Idealmente, cada micrófono debe encontrarse a mínimo 1m de distancia, para red
 
 Inicialmente se hizo una grabación del ruido ambiente con cada uno de los micrófonos en su posición establecida, para proseguir con la grabación de las voces en esta misma posición. Lo anterior con el fin de poder evaluar la relación entre el ruido del espacio y las señales capturadas.
 
-### Procesamiento inicial 
+## Procesamiento inicial 
 Una vez se obtuvieron los audios debieron pasar por una fase preliminar de eleccción y adecuación. Para empezar, la duración de las señales (tanto audios como ruido) no coincidia, por lo que se hizo uso de una aplicación online [^2^], que permite cortar los audios con  mayor precisión que las propias aplicaciones de grabación. 
 
 ![Cortador de audio](https://github.com/lavaltt/Problema_del_coctel__procesamiento_de_senales/blob/main/cortador.jpg?raw=true)
